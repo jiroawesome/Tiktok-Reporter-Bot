@@ -1,7 +1,7 @@
 # Tiktok-Reporter-Bot
 
 # About
-This Tool is about spamming report onto someone in TikTok!
+This Tool is about spamming report someone in TikTok!
 ![bruh](https://github.com/jiroawesome/Tiktok-Reporter-Bot/blob/main/images/Screenshot%20(3).png?raw=true)
 
 # Usage
@@ -11,4 +11,4 @@ This Tool is about spamming report onto someone in TikTok!
 4. Run it.
 
 
-TURN OFF YOUR ANTI VIRUS!
+TURN OFF YOUR ANTI VIRUS IF ISN'T WORKING!
